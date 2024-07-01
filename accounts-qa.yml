@@ -2,7 +2,7 @@ build:
   version: 1.O
 
 accounts:
-  message: "Welcome to EAZY bank accounts related QA APIS"
+  message: "Welcome to EAZY bank accounts related QA APIS github"
   contactDetails:
     name: "Rajesh - QA LEAD"
     email: "rajeshb3vQA@gmail.com"
