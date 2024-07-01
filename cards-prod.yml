@@ -1,0 +1,11 @@
+build:
+  version: 4.O
+
+accounts:
+  message: "Welcome to EAZY bank cards related prod APIS"
+  contactDetails:
+    name: "Rajesh - Product owner"
+    email: "rajeshb3vprod@gmail.com"
+  onCallSupport:
+    - 9888
+    - 8618346094

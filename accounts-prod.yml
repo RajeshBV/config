@@ -1,0 +1,11 @@
+build:
+  version: 4.O
+
+accounts:
+  message: "Welcome to EAZY bank accounts related production API"
+  contactDetails:
+    name: "Rajesh V - Product owner"
+    email: "{cipher}9be9da40ac87a76883a9cc4e91cd7a5fba0e26ec6e29e2fb3d20d9b2a270d577e6d9b82b1121f5a0868a6059c9169c59"
+  onCallSupport:
+    - 9888876678
+    - 8618346094

@@ -1,0 +1,11 @@
+build:
+  version: 3.O
+
+accounts:
+  message: "Welcome to EAZY bank accounts related local APIS"
+  contactDetails:
+    name: "Rajesh"
+    email: "rajeshb3v@gmail.com"
+  onCallSupport:
+    - 7411862959
+    - 8618346094

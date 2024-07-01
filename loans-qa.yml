@@ -1,0 +1,11 @@
+build:
+  version: 1.O
+
+accounts:
+  message: "Welcome to EAZY bank loans related QA APIS"
+  contactDetails:
+    name: "Rajesh - QA LEAD"
+    email: "rajeshb3vQA@gmail.com"
+  onCallSupport:
+    - 74118629
+    - 8618346094
